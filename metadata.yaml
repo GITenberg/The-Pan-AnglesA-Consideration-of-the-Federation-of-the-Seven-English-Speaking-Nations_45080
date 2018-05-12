@@ -1,0 +1,30 @@
+_repo: The-Pan-AnglesA-Consideration-of-the-Federation-of-the-Seven-English-Speaking-Nations_45080
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kennedy, Sinclair
+    gutenberg_agent_id: '43078'
+    url: http://www.gutenberg.org/2009/agents/43078
+description: '"The seven nations" are, New Zealand, Australia, South Africa, Newfoundland,
+  Canada, the British Isles and the United States.'
+gutenberg_issued: '2014-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Relations -- United States'
+- !lcsh 'Anglo-Saxon race'
+- !lcc 'D'
+- !lcsh 'Great Britain -- Colonies'
+- !lcsh 'United States -- Relations -- Great Britain'
+title: 'The Pan-Angles
+
+  A Consideration of the Federation of the Seven English-Speaking Nations'
+url: http://www.gutenberg.org/ebooks/45080

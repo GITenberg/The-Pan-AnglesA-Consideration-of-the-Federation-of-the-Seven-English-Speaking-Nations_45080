@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43078
 description: '"The seven nations" are, New Zealand, Australia, South Africa, Newfoundland,
   Canada, the British Isles and the United States.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45080#The-Pan-AnglesA-Consideration-of-the-Federation-of-the-Seven-English-Speaking-Nations
 gutenberg_issued: '2014-03-08'
 gutenberg_type: Text
 identifiers:
